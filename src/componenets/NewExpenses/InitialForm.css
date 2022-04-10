@@ -1,0 +1,8 @@
+.formContainer{
+    border: 2px solid red;
+    width: 50%;
+    max-width: 100%;
+    margin: 2rem auto;
+    background-color: cadetblue;
+    padding: 1rem;
+}

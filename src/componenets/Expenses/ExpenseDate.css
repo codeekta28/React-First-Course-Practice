@@ -1,0 +1,18 @@
+.ExpenseDateDetails{
+    border: 2px solid;
+    text-align: center;
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: black;
+}
+.ExpenseDateMonth{
+font-weight: bold;
+font-size: 16px;
+}
+.ExpenseDateYear{
+font-size: 12px;
+}
+.ExpenseDateDate{
+ font-size: 25px;
+ font-weight: bold;
+}

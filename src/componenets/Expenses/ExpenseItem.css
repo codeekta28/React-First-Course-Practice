@@ -1,0 +1,36 @@
+.ExpenseItem{
+    border: 2px solid rgb(20, 15, 15);
+    margin: 1rem 0rem;
+    padding: 1rem 4rem;
+    background-color: rgb(56, 55, 55);
+   display:  grid;
+   grid-template-columns: 1fr 10fr 1fr 2fr;
+   align-items: center;
+}
+.ExpenseItemProduct{
+  border: 2px solid #5d5b5b;
+  margin: 2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  font-size: 22px;
+  font-weight: bold;
+}
+.ExpenseItemPrice{
+  border: 2px solid white;
+  background-color: rgb(1, 1, 59);
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.btn{
+  border: 2px solid red;
+  margin: .5rem;
+  padding: .5rem;
+  background-color: white;
+  color: black;
+}
+.btn:hover{
+  cursor: pointer;
+}
